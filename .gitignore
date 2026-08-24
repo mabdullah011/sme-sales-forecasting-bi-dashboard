@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local generated datasets
+data/raw/*.csv
+data/processed/*.csv
